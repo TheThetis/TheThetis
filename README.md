@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ima fuckin' GMan, who the fuck re u?
+### Languages:
+```
+Lua, Bash, Python
+Javascript, HTML, CSS
+```
 
 <!--
 **TheThetis/TheThetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
