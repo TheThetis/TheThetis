@@ -5,6 +5,9 @@ Lua, Bash, Python
 Javascript, HTML, CSS
 ```
 
+### https://preconn.org
+### discord.gg/1632
+
 <!--
 **TheThetis/TheThetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
