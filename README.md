@@ -1,4 +1,4 @@
-### Ima fuckin' GMan, who the fuck re u?
+### i am god, who the fuck are you?
 ### Languages:
 ```
 Lua, Bash, Python
